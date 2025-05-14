@@ -1,4 +1,4 @@
-**Requirements**
+***Requirements***
 
 Windows 10 or 11
 Python 3.13.3 with PATH enabled
