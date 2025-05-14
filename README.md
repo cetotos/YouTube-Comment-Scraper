@@ -48,7 +48,7 @@ Name it anything you want and put ".txt" at the end of it
 Start scraping! The comments will be saved in the output file without anything added.
 
 # **Notes**
-I will probably not update this program or fix bugs (However, I might add Linux support soon). This program was NOT written by me, and it is completely AI made. Feel free to use it and modify it however you want.
+I will probably not update this program or fix bugs (However, I might add Linux support soon). This program was NOT written by me, and it is completely AI made, because I needed a tool to get YouTube comments, and thought it would be nice to share it with other people who need it for whatever reason. Feel free to use it and modify it however you want.
 
 This program does NOT store any API keys or other info. It is open-source, so you can check if it is a virus or not
 
