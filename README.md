@@ -26,6 +26,8 @@ Go to https://console.cloud.google.com/apis/credentials and click "Create creden
 
 Open the program and copy the API key and paste it into the "YouTube API key" part of the program
 
+Also, do *NOT* give your API keys to ANYONE.
+
 ## **Step 3. Input and output files**
 
 Create a .txt file anywhere you want and insert the YouTube URLs in it like this (put each link under eachother and have nothing else in the file):
@@ -47,6 +49,8 @@ Start scraping! The comments will be saved in the output file without anything a
 
 # **Notes**
 I will probably not update this program or fix bugs (However, I might add Linux support soon). This program was NOT written by me, and it is completely AI made. Feel free to use it and modify it however you want.
+
+This program does NOT store any API keys or other info. It is open-source, so you can check if it is a virus or not
 
 
 
